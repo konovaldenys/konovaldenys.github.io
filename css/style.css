@@ -670,3 +670,11 @@
 }
 
 /*** Footer End ***/
+
+.accordion-button {
+    color: #646464;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #26d48c;
+}
